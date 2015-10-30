@@ -1,5 +1,5 @@
 # TWToolkit
 
 The West Userscript
-> Languages
-> Updates
+* Languages
+* Updates
