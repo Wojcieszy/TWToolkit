@@ -33,7 +33,7 @@ TWToolkit.Lang = {
  fbcemetery_head_avd:"Dégâts moyens causés par les armes",
  fbcemetery_head_okh:"Adversaires tombés dans les pommes",
  fbcemetery_head_onl:"Tours en ligne",
- fbcemetery_head_cri:"Nombre de coups crit",
+ fbcemetery_head_cri:"Nombre de coups critiques",
  fbcemetery_resmessages:{ATTACKER_WIPED:'Le fort a été gardé ! Tous les attaquants on été repoussés !',DEFENDER_WIPED:'Le fort est tombé ! Tous les défenseurs ont été battus !',FINALROUND:'Le fort a été gardé ! Les attaquants ont dû battre en retraite après une bataille acharnée !',FLAGLOST:'Le fort est tombé ! Les attaquants ont pu garder le drapeau et démoraliser les défenseurs dans une bataille acharnée !'},
  fbcemetery_attcount:"%1 attaquant a attaqué le fort.",
  fbcemetery_attscount:"%1 attaquants ont attaqué le fort.",
