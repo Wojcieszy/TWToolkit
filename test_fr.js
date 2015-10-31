@@ -1,3 +1,3 @@
-TWToolkit.Lang = {
+YLang = {
  updateDownload:"Téléchager",
 }
