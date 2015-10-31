@@ -1,1 +1,1 @@
-TWToolkit.UpdateVersion = 1.0
+var TWToolkit.UpdateVersion = 1.0
