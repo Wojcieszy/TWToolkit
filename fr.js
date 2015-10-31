@@ -1,5 +1,7 @@
 TWToolkit.Lang = {
  api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><i>• Ouverture multiple de sacs avec un produit commun</br>• Achat multiple dans les boutiques</br></br>• Affichage d\'une popup dans la carte de préparation à une bataille de fort</br>• Possibilité de modifier les grades depuis la carte</br></br>• Colonne du nombre de coups critiques dans le cimetière</br></br>• Informations supplémentaires lors des batailles de fort :<p style='margin-left:30px'> - Statistiques personnelles à chaque tour</br> - Dégâts totaux et dernier tir pour chaque joueur</br> - Affichage du total de PV d\'une sélection de joueurs</p></br><a target='\_blank\' href='https://forum.beta.the-west.net/private.php?do=newpm&u=4072'>En savoir plus ?</a></i>",
+ updateAvailable:"Une nouvelle version pour ce script est disponible",
+ updateDownload:"Téléchager",
  open_number: "Combien voulez-vous en ouvrir ?",
  open_info: "Ouverture en cours...",
  open_result: "Vous avez obtenu...",
