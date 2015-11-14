@@ -1,5 +1,4 @@
 TWToolkitLang = {
- api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><i>• Ouverture multiple de sacs avec un produit commun</br>• Achat multiple dans les boutiques</br></br>• Affichage d\'une popup dans la carte de préparation à une bataille de fort</br>• Possibilité de modifier les grades depuis la carte</br></br>• Colonne du nombre de coups critiques dans le cimetière</br></br>• Informations supplémentaires lors des batailles de fort :<p style='margin-left:30px'> - Statistiques personnelles à chaque tour</br> - Dégâts totaux et dernier tir pour chaque joueur</br> - Affichage du total de PV d\'une sélection de joueurs</p></br><a target='\_blank\' href='https://greasyfork.org/fr/scripts/13506'>En savoir plus ?</a></i>",
  updateAvailable:"Une nouvelle version pour ce script est disponible",
  updateDownload:"Téléchager",
  open_number: "Combien voulez-vous en ouvrir ?",
@@ -56,5 +55,14 @@ TWToolkitLang = {
  fbinfo_totaldmg:"Dégâts totaux (ceux des KO exclus)",
  fbinfo_lastdmg:"Dernier tir",
  fbinfo_resetselect:"Supprimer la sélection actuelle",
- pref_labels:['Ouverture multiple de sacs avec un produit commun et de caisses de roses d\'Inde','Achat multiple dans les boutiques','Affichage d\'une popup dans la carte de préparation à une bataille de fort (Points de vie et proximité du fort)',' Colonne du nombre de coups critiques dans le cimetière','Statistiques personnelles à chaque tour','Dégâts totaux et dernier tir pour chaque joueur - Affichage du total de points de vie d\'une sélection de joueurs','ids_popup','export_ids'],
+ pref_labels:['Ouverture multiple de sacs avec un produit commun et de caisses de roses d\'Inde','Achat multiple dans les boutiques','Affichage d\'une popup dans la carte de préparation à une bataille de fort (Points de vie et proximité du fort)',' Colonne du nombre de coups critiques dans le cimetière','Statistiques personnelles à chaque tour','Dégâts totaux et dernier tir pour chaque joueur - Affichage du total de points de vie d\'une sélection de joueurs','Afficher l\'id de chaque objet','Exporter une tenue depuis le profil d\'un joueur vers son carnet de notes'],
+ pref_save:"Sauvegarder",
+ pref_apply:"Appliquer et actualiser",
+ pref:"Préférences",
+pref_open:"Ouvrir les préférences",
+buy_info:"Achat en cours...",
+buy_success:"Achats terminés !",
+export_ids:"Exporter les items portés vers votre carnet de notes",
+export_ids_success:"Les données ont été exportées vers votre carnet de notes",
+api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><i>• Ouverture multiple de sacs avec un produit commun</br>• Achat multiple dans les boutiques</br></br>• Affichage d\'une popup dans la carte de préparation à une bataille de fort</br>• Possibilité de modifier les grades depuis la carte</br></br>• Colonne du nombre de coups critiques dans le cimetière</br></br>• Informations supplémentaires lors des batailles de fort :<p style='margin-left:30px'> - Statistiques personnelles à chaque tour</br> - Dégâts totaux et dernier tir pour chaque joueur</br> - Affichage du total de PV d\'une sélection de joueurs</p></br><a target='\_blank\' href='https://greasyfork.org/fr/scripts/13506'>En savoir plus ?</a></i>",
 }
