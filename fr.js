@@ -56,4 +56,5 @@ TWToolkitLang = {
  fbinfo_totaldmg:"Dégâts totaux (ceux des KO exclus)",
  fbinfo_lastdmg:"Dernier tir",
  fbinfo_resetselect:"Supprimer la sélection actuelle",
+ pref_labels:['Ouverture multiple de sacs avec un produit commun et de caisses de roses d\'Inde','Achat multiple dans les boutiques','Affichage d\'une popup dans la carte de préparation à une bataille de fort (Points de vie et proximité du fort)',' Colonne du nombre de coups critiques dans le cimetière','Statistiques personnelles à chaque tour','Dégâts totaux et dernier tir pour chaque joueur - Affichage du total de points de vie d\'une sélection de joueurs','ids_popup','export_ids'],
 }
