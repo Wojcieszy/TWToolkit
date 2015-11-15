@@ -1,1 +1,1 @@
-TWToolkitUpdateVersion = 1.04
+TWToolkitUpdateVersion = 1.05
