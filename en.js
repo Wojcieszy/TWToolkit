@@ -69,6 +69,6 @@ edit:" Edit",
 wait:"Please wait...",
 list_error:"An error occured with a town name",
 players_added:" players added !",
-api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Some tools for The West </strong></br><a target='\_blank\' href='https://greasyfork.org/fr/scripts/13506'>Know more about it</a></i></br></br>Si you have any problem or suggestion, you can contact me at <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, or on Greasyfork.",
+api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Some tools for The West </strong></br><a target='\_blank\' href='https://greasyfork.org/en/scripts/13506'>Know more about it</a></i></br></br>Si you have any problem or suggestion, you can contact me at <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, or on Greasyfork.",
 
 }
