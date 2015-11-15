@@ -36,7 +36,7 @@ TWToolkitLang = {
  fbcemetery_head_okh:"Spowodowane omdlenia",
  fbcemetery_head_onl:"On-line",
  fbcemetery_head_cri:"Ilość trafień krytycznych",
- fbcemetery_resmessages:{ATTAK ODPARTO: 'Wszyscy napastnicy zostali odparci!',FORT UPADŁ: 'Wszyscy obrońcy zostali pokonani !',CZAS SKOŃCZONY:'Fort został utrzymany. Napastnicy sobie poszli!',FLAGA ZDOBYTA:'Napastnicy zdobyli flagę!'},
+  fbcemetery_resmessages:{ATTACKER_WIPED:'Wszyscy napastnicy zostali odparci!',DEFENDER_WIPED:'Wszyscy obrońcy zostali pokonani !',FINALROUND:'Fort został utrzymany. Napastnicy sobie poszli!',FLAGLOST:'Napastnicy zdobyli flagę!'},
  fbcemetery_attcount:"%1 atakujący zaatakował fort.",
  fbcemetery_attscount:"%1 atakujących zaatakowało fort.",
  fbcemetery_defcount:" %1Obrońca bronił.",
