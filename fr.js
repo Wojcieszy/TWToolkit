@@ -60,10 +60,14 @@ TWToolkitLang = {
  pref_save_success:"Vos préférences ont bien été sauvegardées !",
  pref_apply:"Appliquer et actualiser",
  pref:"Préférences",
-pref_open:"Ouvrir les préférences",
-buy_info:"Achat en cours...",
+buy_info:"Achats en cours...",
 buy_success:"Achats terminés !",
 export_ids:"Exporter les items portés vers votre carnet de notes",
-export_ids_success:"Les données ont été exportées vers votre carnet de notes",
-api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><i>• Ouverture multiple de sacs avec un produit commun</br>• Achat multiple dans les boutiques</br></br>• Affichage d\'une popup dans la carte de préparation à une bataille de fort</br>• Possibilité de modifier les grades depuis la carte</br></br>• Colonne du nombre de coups critiques dans le cimetière</br></br>• Informations supplémentaires lors des batailles de fort :<p style='margin-left:30px'> - Statistiques personnelles à chaque tour</br> - Dégâts totaux et dernier tir pour chaque joueur</br> - Affichage du total de PV d\'une sélection de joueurs</p></br><a target='\_blank\' href='https://greasyfork.org/fr/scripts/13506'>En savoir plus ?</a></i>",
+export_ids_success:"Les données ont été enregistrées dans votre carnet de notes",
+list_perso:"Liste personnalisée",
+edit:"Modifier",
+wait:"Veuillez patienter...",
+list_error:"Un problème est survenu : nom de ville erroné",
+players_added:" joueurs ajoutés !"
+api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Divers outils pour The West </strong><a target='\_blank\' href='https://greasyfork.org/fr/scripts/13506'>En savoir plus ?</a></i></br></br>Si vous rencontrez des problèmes ou avez des suggestions, vous pouvez me contacter <a href='thathanka.tw@gmail.com'>Par Email</a>, sur Greasyfork ou <a target='\_blank\' href='https://forum.the-west.fr/member.php?u=15034'> ici</a>.",
 }
