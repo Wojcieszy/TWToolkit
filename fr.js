@@ -55,7 +55,7 @@ TWToolkitLang = {
  fbinfo_totaldmg:"Dégâts totaux (ceux des KO exclus)",
  fbinfo_lastdmg:"Dernier tir",
  fbinfo_resetselect:"Supprimer la sélection actuelle",
- pref_labels:['Ouverture multiple de sacs avec un produit commun et de caisses de roses d\'Inde','Achat multiple dans les boutiques','Affichage d\'une popup dans la carte de préparation à une bataille de fort (Points de vie et proximité du fort)',' Colonne du nombre de coups critiques dans le cimetière','Statistiques personnelles à chaque tour','Dégâts totaux et dernier tir pour chaque joueur - Affichage du total de points de vie d\'une sélection de joueurs','Afficher l\'id de chaque objet','Exporter une tenue depuis le profil d\'un joueur vers son carnet de notes','desti','nom','ally','ville','supp','less'],
+ pref_labels:['Ouverture multiple de sacs avec un produit commun et de caisses de roses d\'Inde','Achat multiple dans les boutiques','Affichage d\'une popup dans la carte de préparation à une bataille de fort (Points de vie et proximité du fort)',' Colonne du nombre de coups critiques dans le cimetière','Statistiques personnelles à chaque tour','Dégâts totaux et dernier tir pour chaque joueur - Affichage du total de points de vie d\'une sélection de joueurs','Afficher l\'id de chaque objet','Exporter une tenue depuis le profil d\'un joueur vers son carnet de notes','Ajouter un groupe de destinataires personnalisé','Alliances','Villes','Joueurs supplémentaires','Joueurs exclus'],
  pref_save:"Sauvegarder",
  pref_save_success:"Vos préférences ont bien été sauvegardées !",
  pref_apply:"Appliquer et actualiser",
