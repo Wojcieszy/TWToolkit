@@ -1,5 +1,4 @@
 TWToolkitLang = {
- api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png'><br><br><i>• Öffne mehrere Taschen auf einmal<br>• Kaufe mehrere Gegenstände auf einmal in den Stadtläden<br><br>• Popup der Spieler auf der Schlachtkarte vor einem Fortkamp wird mit LP und Entfernung ergänzt<br>• Möglickeit die Spieler vor Ort zu mustern (Drücke 1-9 um bei gestapelten Spielern auszuwählen)<br><br>• Spalte mit der Anzahl der kritischen Treffer im Fortkampfbericht<br><br>• Zusätzliche Informationen während dem Fortkampf:<p style='margin-left:30px'> - Persönliche Statistik bei jeder Runde<br> - Gesamtschaden und letzter Treffer bei jedem Spieler<br> - Zusätzliche LP Anzeige</p></i>",
  updateAvailable:"Für das Script ist eine neue Version erhältlich",
  updateDownload:"Herunterladen",
  open_number: "Wie viel möchtest du öffnen?",
@@ -56,4 +55,20 @@ TWToolkitLang = {
  fbinfo_totaldmg:"Schaden gemacht (ohne KO Treffer)",
  fbinfo_lastdmg:"Letzter Treffer",
  fbinfo_resetselect:"Aktuelle Auswahl aufheben",
+  pref_labels:['Use lots of bags with a common product and cempasúchil cases ','Buy lots of items in the shops','More informations in the Fort Battle map\'s popup (health points and proximity)','Critical hits column in Cemetery','Hit count, missed hits, hits taken and dodge shots each round','Total damage and last hit in players\' descriptions - Total health points of a selection of players<','Show the id of every item','Export items from a profile to your notebook','Add a personalized list of recipients (follow the syntax name1;name2;name3) ','Alliances','Additional towns','Additional players','Players excluded'],
+ pref_save:"Save",
+ pref_save_success:"Your preferences have been saved !",
+ pref_apply:"Apply and reload",
+ pref:"Preferences",
+buy_info:"Starting buying items...",
+buy_success:"All the items were bought",
+export_ids:"Export items to your notebook",
+export_ids_success:"The items were successfully saved",
+list_perso:"Personalized list",
+edit:" Edit",
+wait:"Please wait...",
+list_error:"An error occured with a town name",
+players_added:" players added !",
+api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Some tools for The West </strong></br><a target='\_blank\' href='https://greasyfork.org/en/scripts/13506'>Know more about it</a></i></br></br>Si you have any problem or suggestion, you can contact me at <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, or on Greasyfork.",
+
 }
