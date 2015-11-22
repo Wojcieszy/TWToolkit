@@ -70,5 +70,5 @@ wait:"Attendere...",
 list_error:"Attenzione : nome città errato",
 players_added:" giocatori aggiunti !",
 api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Varie utilità per The West </strong></br><a target='\_blank\' href='https://greasyfork.org/en/scripts/13506'>Ne vuoi sapere di più?</a></i></br></br>Se avete problemi o suggerimenti, contattatemi all'indirizzo <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, o su Greasyfork.",
-list_error:"Attenzione : nome alleanza errato",
+list_error_allys:"Attenzione : nome alleanza errato",
 }
