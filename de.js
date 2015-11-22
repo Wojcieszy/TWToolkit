@@ -89,4 +89,7 @@ TWToolkitLang = {
   list_error: 'Error bei einem Stadtnamen',
   players_added: ' Spieler hinzugefügt!',
   api_gui: '<img src=\'https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4\'></br></br><strong>Verschiedene Tools für The West</strong></br><a target=\'_blank\' href=\'https://greasyfork.org/de/scripts/13506\'>Erfahre mehr darüber</a></i></br></br>Falls du irgendwelche Vorschläge oder Probleme hast, konatkierte mich über <a target=\'_blank\' href=\'mailto:thathanka.tw@gmail.com\'>thathanka.tw@gmail.com</a>, auf Greasyfork oder im <a target=\'_blank\' href=\'https://forum.the-west.fr/private.php?do=newpm&u=15034\'>französischen Forum.</a>.',
+  list_error_allys: 'An error occured with an alliance name',
+
+  
 }
