@@ -70,4 +70,5 @@ wait:"Aguarde...",
 list_error:"Ocorreu um erro com o nome de uma cidade",
 players_added:" jogadores adicionados!",
 api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Ferramentas para o The West </strong></br><a target='\_blank\' href='https://greasyfork.org/en/scripts/13506'>Saiba mais sobre isto</a></i></br></br>Se você tiver algum problema ou sugestão, entre em contato <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, ou no Greasyfork.",
-}
+list_error_allys:"An error occured with an alliance name",
+  }
