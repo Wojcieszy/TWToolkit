@@ -36,7 +36,6 @@ TWToolkitLang = {
  fbcemetery_head_okh:" Hodor ",
  fbcemetery_head_onl:" Hodor ",
  fbcemetery_head_cri:" Hodor ",
- fbcemetery_resmessages:{HODOR!: ', HODOR!:', HODOR!: ',HODOR!:'},
  fbcemetery_attcount:"%1 Hodor.",
  fbcemetery_attscount:"%1 Hodor.",
  fbcemetery_defcount:"%1 Hodor.",
