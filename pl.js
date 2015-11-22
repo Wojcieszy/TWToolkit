@@ -70,4 +70,5 @@ wait:"Proszę czekać...",
 list_error:"Błędna nazwa miasta",
 players_added:"Gracz dodany!",
 api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Różne dodatki do The-West </strong></br><a target='\_blank\' href='https://greasyfork.org/fr/scripts/13506'>Dowiedz się więcej</a></i></br></br> Jeśli masz propozycję lub jakiś problem możesz skontaktować się z twórcą  <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, lub na Greasyfork</br></br></br><strong><a target='\_blank\' href='https://dzikitw.wordpress.com/'>https://dzikitw.wordpress.com/</a> jest fanowską stroną, która jest poświęcona grze The-West. Znajdziecie tam informacje o aktualizacjach, poradniki, artykuły, skrypty i wiele więcej.</strong>",
+list_error_allys:"An error occured with an alliance name",
 }
