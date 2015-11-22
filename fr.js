@@ -70,4 +70,7 @@ wait:"Veuillez patienter...",
 list_error:"Un problème est survenu : nom de ville erroné",
 players_added:" joueurs ajoutés !",
 api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Divers outils pour The West </strong></br><a target='\_blank\' href='https://greasyfork.org/fr/scripts/13506'>En savoir plus ?</a></i></br></br>Si vous rencontrez des problèmes ou avez des suggestions, vous pouvez me contacter via l'adresse <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, sur Greasyfork ou <a target='\_blank\' href='https://forum.the-west.fr/private.php?do=newpm&u=15034'> sur ce forum.</a>",
+list_error_allys:"Un problème est survenu : nom d'alliance erroné",
+
+ 
 }
