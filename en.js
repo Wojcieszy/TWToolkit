@@ -55,7 +55,7 @@ TWToolkitLang = {
  fbinfo_totaldmg:"Damage inflicted (except KO)",
  fbinfo_lastdmg:"Last hit",
  fbinfo_resetselect:"Reset current selection",
- pref_labels:['Use lots of bags with a common product and cempasúchil cases ','Buy lots of items in the shops','More informations in the Fort Battle map\'s popup (health points and proximity)','Critical hits column in Cemetery','Hit count, missed hits, hits taken and dodge shots each round','Total damage and last hit in players\' descriptions - Total health points of a selection of players<','Show the id of every item','Export items from a profile to your notebook','Add a personalized list of recipients (follow the syntax name1;name2;name3) ','Alliances','Additional towns','Additional players','Players excluded'],
+ pref_labels:['Use lots of bags with a common product and cempasúchil cases ','Buy lots of items in the shops','More informations in the Fort Battle map\'s popup (health points and proximity)','Critical hits column in Cemetery','Hit count, missed hits, hits taken and dodge shots each round','Total damage and last hit in players\' descriptions - Total health points of a selection of players<','Show the id of every item','Export items from a profile to your notebook','Add a personalized list of recipients (follow the syntax name1;name2;name3) ','Alliances','Additional towns','Additional players','Players excluded','Remind me to vote','Remind me to open the advent calendar'],
  pref_save:"Save",
  pref_save_success:"Your preferences have been saved !",
  pref_apply:"Apply and reload",
@@ -71,5 +71,6 @@ list_error:"An error occured with a town name",
 players_added:" players added !",
 api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Some tools for The West </strong></br><a target='\_blank\' href='https://greasyfork.org/en/scripts/13506'>Know more about it</a></i></br></br>If you have any problem or suggestion, you can contact me at <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, or on Greasyfork.",
 list_error_allys:"An error occured with an alliance name",
-
+calendar:"Open your advent calendar !",
+vote:"Vote for The West !",
 }
