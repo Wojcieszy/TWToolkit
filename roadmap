@@ -1,15 +1,13 @@
 => message d'erreur pour villes, alliances non trouvées => OK
 => stats duels dans les profils => OK
+=> option pour stats duels => OK
+=> scrollbar => OK
+=> notification voter ts les jours pour TW => OK
+=> notification calendrier de l'avent => OK
 
-=> refonte des paramètres 
-pouvoir changer la langue
-scrollbar (en cours)
-accordions pour 3 listes
-option pour stats duels (en cours)
-
+=> pouvoir changer la langue
+=> accordions pour 3 listes
 => plusieurs listes
 => option mail circulaire cochée automatiquement + option ds les paramètres
-=> notification voter ts les jours pour TW (en cours)
-=> notification calendrier de l'avent (en cours)
 
 => rechercher un perso sur la map pendant la BDF ? total des pv ?
