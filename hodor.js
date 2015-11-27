@@ -54,7 +54,7 @@ TWToolkitLang = {
  fbinfo_totaldmg:" Hodor",
  fbinfo_lastdmg:" Hodor ",
  fbinfo_resetselect:" Hodor ",
- pref_labels:[' Hodor ',' Hodor ',' Hodor’,' Hodor ' Hodor ', Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor '],
+ pref_labels:[' Hodor ',' Hodor ',' Hodor',' Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor ',' Hodor '],
  pref_save:" Hodor ",
  pref_save_success:" Hodor!",
  pref_apply:" Hodor ",
