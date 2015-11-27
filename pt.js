@@ -55,7 +55,7 @@
  fbinfo_totaldmg:"Dano infligido (exceto KO)",
  fbinfo_lastdmg:"Último tiro",
  fbinfo_resetselect:"Resetar seleção atual",
-  pref_labels:['Abra vários Sacos com Produto Comum e Caixas com Cravos-de-Defunto ','Compre vários itens nas lojas','Maiores informações das Batalhas de Fort na janela pop-up (pontos de saúde e proximidade)','Tiros críticos listados no Cemitério','Contagem de acertos, tiros perdidos, tiros recebidos e desvios em cada ronda','Dano total e último tiro na descrição do jogador - Total de pontos de saúde de uma seleção de jogadores<','Exibe o ID de cada item','Exporta itens de um perfil para o seu livro de notas','Adiciona uma lista personalizada de recipientes (seguindo a sintaxe name1;name2;name3) ','Alianças','Cidades adicionais','Jogadores adicionais','Jogadores excluídos'],
+  pref_labels:['Abra vários Sacos com Produto Comum e Caixas com Cravos-de-Defunto ','Compre vários itens nas lojas','Maiores informações das Batalhas de Fort na janela pop-up (pontos de saúde e proximidade)','Tiros críticos listados no Cemitério','Contagem de acertos, tiros perdidos, tiros recebidos e desvios em cada ronda','Dano total e último tiro na descrição do jogador - Total de pontos de saúde de uma seleção de jogadores<','Exibe o ID de cada item','Exporta itens de um perfil para o seu livro de notas','Adiciona uma lista personalizada de recipientes (seguindo a sintaxe name1;name2;name3) ','Alianças','Cidades adicionais','Jogadores adicionais','Jogadores excluídos','Remind me to vote','Remind me to open the advent calendar'],
  pref_save:"Salvar",
  pref_save_success:"Suas preferências foram salvas !",
  pref_apply:"Aplique e recarregue",
@@ -71,4 +71,6 @@ list_error:"Ocorreu um erro com o nome de uma cidade",
 players_added:" jogadores adicionados!",
 api_gui:"<img src='https://westfrs.innogamescdn.com//images/items/yield/toolbox.png?4'></br></br><strong>Ferramentas para o The West </strong></br><a target='\_blank\' href='https://greasyfork.org/en/scripts/13506'>Saiba mais sobre isto</a></i></br></br>Se você tiver algum problema ou sugestão, entre em contato <a target='\_blank\' href='mailto:thathanka.tw@gmail.com'>thathanka.tw@gmail.com</a>, ou no Greasyfork.",
 list_error_allys:"An error occured with an alliance name",
-  }
+calendar:"Open your advent calendar !",
+vote:"Vote for The West !",
+}
