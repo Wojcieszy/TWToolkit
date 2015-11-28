@@ -1,1 +1,1 @@
-TWToolkit.Reminder.history_noti=[['hello','https://fr12.the-west.fr/images/throbber2.gif','link'],['hello2','https://fr12.the-west.fr/images/throbber2.gif','link2'],['hell3o','https://fr12.the-west.fr/images/throbber2.gif','link3']]
+TWToolkit.Reminder.history_noti=[['<strong>Dziki T-W</strong></br></br><i> Check out our new article !</i>','https://i.imgur.com/Tk3WCAp.png','https://dzikitw.wordpress.com/eventy/halloween-2015/']]
