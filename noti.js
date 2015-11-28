@@ -1,1 +1,1 @@
-TWToolkit.Reminder.history_noti=[]
+TWToolkit.Reminder.history_noti=[['hello','link']]
