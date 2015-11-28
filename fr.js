@@ -89,5 +89,5 @@ calendar:"Ouvre une case de ton calendrier de l'avent !",
 vote:"Vote pour The West !",
 }
 
-TWToolkit.Preferences.pref_ids=[['use_items',0,'enabled'],['buy_items',0,'enabled'],['fb_popup',0,'enabled'],['critical_hits',0,'enabled'],['fb_hits',0,'enabled'],['fb_info',0,'enabled'],['ids_popup',0,'enabled'],['export_ids',0,'enabled'],['add_recipient',0,'enabled'],['allys',1,'enabled'],['towns',1,'enabled'],['add_players',1,'enabled'],['remove_players',1,'enabled'],['vote',0,'disabled'],['calendar',0,'disabled']];
-TWToolkit.Preferences.preferences_default={'use_items':true,'buy_items':true,'fb_popup':true,'critical_hits':true,'fb_hits':true,'fb_info':true,'ids_popup':true,'export_ids':true,'add_recipient':false,'allys':'','towns':'','add_players':'','remove_players':'','vote':false,'calendar':false};
+TWToolkit.Preferences.pref_ids=[['use_items',0,'enabled'],['buy_items',0,'enabled'],['fb_popup',0,'enabled'],['critical_hits',0,'enabled'],['fb_hits',0,'enabled'],['fb_info',0,'enabled'],['ids_popup',0,'enabled'],['export_ids',0,'enabled'],['add_recipient',0,'enabled'],['allys',1,'enabled'],['towns',1,'enabled'],['add_players',1,'enabled'],['remove_players',1,'enabled'],['vote',0,'enabled'],['calendar',0,'enabled']];
+TWToolkit.Preferences.preferences_default={'use_items':true,'buy_items':true,'fb_popup':true,'critical_hits':true,'fb_hits':true,'fb_info':true,'ids_popup':true,'export_ids':true,'add_recipient':false,'allys':'','towns':'','add_players':'','remove_players':'','vote':true,'calendar':true};
