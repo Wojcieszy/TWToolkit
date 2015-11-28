@@ -55,7 +55,7 @@ TWToolkitLang = {
  fbinfo_totaldmg:"Całkowite obrażenia (bez strzału powodującego omdlenie)",
  fbinfo_lastdmg:"Ostatni strzał",
  fbinfo_resetselect:"Anuluj aktualny wybór.",
- pref_labels:['Otwieranie wielu toreb.','Wielokrotny zakup w sklepie.',' Wyświetlanie informacji  podczas przygotowania do bitwy (punkty życia, bycie on-line)',' Dodatkowa rubryka na trafienia krytyczne w raporcie z bitwy.',' Indywidualne statystyki',' Suma zadanych obrażeń oraz łączne HP wybranych graczy.',' Pokaż ID każdego przedmiotu ',' Eksport profilu (ubrań) gracza do swojego notatnika. ','Dodaj dodatkową grupę odbiorców ','Sojusz','Miasto','Dodatkowa Osoba','Wykluczony Gracz','Remind me to vote','Remind me to open the advent calendar'],
+ pref_labels:['Otwieranie wielu toreb.','Wielokrotny zakup w sklepie.',' Wyświetlanie informacji  podczas przygotowania do bitwy (punkty życia, bycie on-line)',' Dodatkowa rubryka na trafienia krytyczne w raporcie z bitwy.',' Indywidualne statystyki',' Suma zadanych obrażeń oraz łączne HP wybranych graczy.',' Pokaż ID każdego przedmiotu ',' Eksport profilu (ubrań) gracza do swojego notatnika. ','Dodaj dodatkową grupę odbiorców ','Sojusz','Miasto','Dodatkowa Osoba','Wykluczony Gracz','Przypomnienie o głosowaniu','Przypomnienie o otwarciu kalendarza adwentowego'],
  pref_save:"Zapisz",
  pref_save_success:"Twoje preferencje zostały zapisane!",
  pref_apply:"Zapisz i odśwież",
