@@ -1,1 +1,1 @@
-TWToolkit.Reminder.history_noti=[['hello','https://fr12.the-west.fr/images/throbber2.gif','link']]
+TWToolkit.Reminder.history_noti=[['hello','https://fr12.the-west.fr/images/throbber2.gif','link'],['hello2','https://fr12.the-west.fr/images/throbber2.gif','link2'],['hell3o','https://fr12.the-west.fr/images/throbber2.gif','link3']]
